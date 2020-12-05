@@ -1,0 +1,20 @@
+ErrorDocument 400 http://petsave.ml/erro.html
+
+
+
+ErrorDocument 401 http://petsave.ml/erro.html
+
+
+
+ErrorDocument 403 http://petsave.ml/erro.html
+
+
+
+ErrorDocument 404 http://petsave.ml/erro.html
+
+
+
+ErrorDocument 503 http://petsave.ml/erro.html
+
+
+
